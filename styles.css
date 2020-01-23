@@ -6,6 +6,15 @@ h1 {
   color: rgba(15, 218, 167, 0.596);
 }
 
-p {
+hr {
+  background-color: red;
+  height: 5px;
+}
+
+ul {
   color: crimson;
+}
+
+p {
+  color: red;
 }
